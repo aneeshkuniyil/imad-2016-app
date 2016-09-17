@@ -1,22 +1,39 @@
-body {
-    font-family: sans-serif;
-    background-color: "#DEDCAB";
-    margin-top: 75px;
-}
+<!doctype html>
+<html>
+    <head>
+        <link href="/ui/style.css" rel="stylesheet" />
+    </head>
+    <body>
+        
+		<div align ="center">
+			
+			<fieldSet>
+				<legend><img src ="imad-2016-app/ui/aneesh.jpg" width ="221" height ="223"></legend>
+				<legend><h2>Aneesh Kuniyil</h2></legend>
+				<p>
+					I'm aneesh, born and brought up in a beautiful village in <a href ="http://www.keralatourism.org/">Kerala, India</a> and lived most of my life in Singapore. I am back in India, taking a long break from working life.
+				</p>
+				<p>
+					I love technology and love sharing things I know about various technology solutions and gadgets. It's really fun to try out various applications and looking out for solutions to existing problems or finding new ways to do things. You may want to check out one of my blogs on Technology here at <a href = "http://sarayoo.info/">sarayoo.info</a>.
+				</p>
+				<p>
+					I also love sharing insights on spirituality, ancient Indian culture, Vedic knowledge, etc. You can see some of my writing on this <a href = "http://thesacredintimacy.com">topic here</a>. 
+				</p>
+				<h4>Other random facts!</h4>
+				<p>
+				I'm an ardent art lover. I dance Bharatanatyam and Kathakali and also have performed at various theaters in Singapore. I love spending my free times away from Computers and attending art events, exhibitions, writing, reading books, etc. I enjoy connecting with people from different cultures, sharing knowledge and ideas, and play my part in making our world a paradise.
+				</p>
+			</fieldSet>
+			
+			
+			
+		
+		</div>
+        
 
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
+        
+        <script type="text/javascript" src="/ui/main.js">
+        </script>
+    </body>
+</html>
 
