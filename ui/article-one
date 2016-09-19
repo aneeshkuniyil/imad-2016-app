@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+	<body>
+	<h1> Article One - HTML &lt;style&gt; tag for writing CSS inside the HTML</h1>
+	<p>
+		The <b>HTML < style > element</b> contains style information for a document, or part of a document. By default, the style instructions written inside that element are expected to be <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>.
+	</p>
+	<table border = "0" cellPadding ="20">
+		<tr>
+			<th>Content categories</th>
+			<td>Metadata content, and if the scoped attribute is present: flow content.</td>
+		</tr>
+		
+		<tr>
+			<th>Permitted content</th>
+			<td>Text content matching the type attribute, that is text/css.</td>
+		</tr>
+	
+	</table>
+	</body>
+</html>
