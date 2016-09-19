@@ -17,16 +17,16 @@ app.get('/ui/aneesh.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'aneesh.png'));
 });
 
-app.get('/article-one', function (req, res){
-    res.sendFile('Article one will be served here..')
+app.get('/article-one', function (req, res) {
+    res.send('Article one will be served here..')
 });
 
 app.get('/article-two', function (req, res){
-    res.sendFile('Article two will be served here..')
+    res.send('Article two will be served here..')
 });
 
 app.get('/article-three', function (req, res){
-    res.sendFile('Article three will be served here..')
+    res.send('Article three will be served here..')
 });
 
 app.get('/ui/facebook.png', function (req, res) {
