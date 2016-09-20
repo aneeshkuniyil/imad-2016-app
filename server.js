@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 var content = {
-  title : 'Article One',
+  title : 'articleOne',
   heading : 'Article One - HTML <style> tag for writing CSS inside the HTML',
   date : '19 Sept 2016',
   content : `
